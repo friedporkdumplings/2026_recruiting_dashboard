@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-09-13T12:03:05.085Z",
-  "count": 1310,
-  "rawCount": 13817,
+  "generatedAt": "2026-09-13T16:28:47.609Z",
+  "count": 1307,
+  "rawCount": 13800,
   "sourceCount": 79,
   "directSourceCount": 67,
   "communityFeedCount": 12,
@@ -14,35 +14,35 @@
       "ats": "Ashby",
       "status": "ok",
       "fetched": 59,
-      "ms": 44
+      "ms": 66
     },
     {
       "company": "Affirm",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 207,
-      "ms": 442
+      "ms": 439
     },
     {
       "company": "Airbnb",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 164,
-      "ms": 264
+      "ms": 222
     },
     {
       "company": "Airtable",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 16,
-      "ms": 87
+      "ms": 86
     },
     {
       "company": "Airwallex",
       "ats": "Ashby",
       "status": "ok",
       "fetched": 584,
-      "ms": 204
+      "ms": 327
     },
     {
       "company": "Anthropic",
@@ -50,196 +50,196 @@
       "status": "error",
       "fetched": 0,
       "error": "404 Not Found: https://api.ashbyhq.com/posting-api/job-board/anthropic",
-      "ms": 2162
+      "ms": 2196
     },
     {
       "company": "ApplyGuy — 2027 Product Internships",
       "ats": "Community JSON",
       "status": "ok",
       "fetched": 0,
-      "ms": 11
+      "ms": 134
     },
     {
       "company": "BlackRock",
       "ats": "Workday",
       "status": "ok",
       "fetched": 83,
-      "ms": 12199
+      "ms": 13324
     },
     {
       "company": "Bristol Myers Squibb",
       "ats": "Workday",
       "status": "ok",
       "fetched": 0,
-      "ms": 58203
+      "ms": 60387
     },
     {
       "company": "Bumble",
       "ats": "Lever",
       "status": "ok",
       "fetched": 0,
-      "ms": 1829
+      "ms": 317
     },
     {
       "company": "Capital One",
       "ats": "Workday",
       "status": "ok",
       "fetched": 43,
-      "ms": 9370
+      "ms": 8681
     },
     {
       "company": "Chime",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 70,
-      "ms": 235
+      "ms": 229
     },
     {
       "company": "Citi",
       "ats": "Workday",
       "status": "ok",
       "fetched": 219,
-      "ms": 73420
+      "ms": 74397
     },
     {
       "company": "Cloudflare",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 358,
-      "ms": 747
+      "ms": 719
     },
     {
       "company": "Cohere",
       "ats": "Ashby",
       "status": "ok",
       "fetched": 145,
-      "ms": 66
+      "ms": 65
     },
     {
       "company": "Comcast",
       "ats": "Workday",
       "status": "ok",
       "fetched": 50,
-      "ms": 18304
+      "ms": 8001
     },
     {
       "company": "Crusoe",
       "ats": "Ashby",
       "status": "ok",
       "fetched": 371,
-      "ms": 160
+      "ms": 257
     },
     {
       "company": "CVS Health",
       "ats": "Workday",
       "status": "ok",
       "fetched": 69,
-      "ms": 13086
+      "ms": 15184
     },
     {
       "company": "Databricks",
       "ats": "Greenhouse",
       "status": "ok",
-      "fetched": 892,
-      "ms": 1090
+      "fetched": 891,
+      "ms": 1159
     },
     {
       "company": "Datadog",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 446,
-      "ms": 469
+      "ms": 431
     },
     {
       "company": "Decagon",
       "ats": "Ashby",
       "status": "ok",
       "fetched": 140,
-      "ms": 45
+      "ms": 117
     },
     {
       "company": "Deel",
       "ats": "Ashby",
       "status": "ok",
       "fetched": 0,
-      "ms": 10
+      "ms": 16
     },
     {
       "company": "Discord",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 46,
-      "ms": 157
+      "ms": 135
     },
     {
       "company": "Disney",
       "ats": "Workday",
       "status": "ok",
-      "fetched": 41,
-      "ms": 13089
+      "fetched": 45,
+      "ms": 15214
     },
     {
       "company": "Duolingo",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 80,
-      "ms": 234
+      "ms": 510
     },
     {
       "company": "Fidelity International",
       "ats": "Workday",
       "status": "ok",
       "fetched": 33,
-      "ms": 23512
+      "ms": 22539
     },
     {
       "company": "Figma",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 153,
-      "ms": 331
+      "ms": 391
     },
     {
       "company": "GitLab",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 227,
-      "ms": 304
+      "ms": 341
     },
     {
       "company": "Gopuff",
       "ats": "Lever",
       "status": "ok",
       "fetched": 780,
-      "ms": 2983
+      "ms": 1858
     },
     {
       "company": "Harvey",
       "ats": "Ashby",
       "status": "ok",
       "fetched": 325,
-      "ms": 122
+      "ms": 136
     },
     {
       "company": "Instacart",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 106,
-      "ms": 417
+      "ms": 277
     },
     {
       "company": "Jobright — Business Analyst Internships",
       "ats": "Community Feed",
       "status": "ok",
-      "fetched": 92,
-      "ms": 5
+      "fetched": 91,
+      "ms": 6
     },
     {
       "company": "Jobright — Business Analyst New Grad",
       "ats": "Community Feed",
       "status": "ok",
       "fetched": 66,
-      "ms": 38
+      "ms": 6
     },
     {
       "company": "Jobright — Consultant Internships",
@@ -252,134 +252,134 @@
       "company": "Jobright — Consultant New Grad",
       "ats": "Community Feed",
       "status": "ok",
-      "fetched": 417,
-      "ms": 57
+      "fetched": 416,
+      "ms": 9
     },
     {
       "company": "Jobright — Data Analysis New Grad",
       "ats": "Community Feed",
       "status": "ok",
-      "fetched": 483,
-      "ms": 55
+      "fetched": 480,
+      "ms": 9
     },
     {
       "company": "Jobright — Marketing New Grad",
       "ats": "Community Feed",
       "status": "ok",
-      "fetched": 1913,
-      "ms": 352
+      "fetched": 1900,
+      "ms": 29
     },
     {
       "company": "Jobright — Product Management Internships",
       "ats": "Community Feed",
       "status": "ok",
       "fetched": 100,
-      "ms": 45
+      "ms": 6
     },
     {
       "company": "Jobright — Product Management New Grad",
       "ats": "Community Feed",
       "status": "ok",
-      "fetched": 545,
-      "ms": 12
+      "fetched": 544,
+      "ms": 10
     },
     {
       "company": "Johnson & Johnson",
       "ats": "Workday",
       "status": "ok",
       "fetched": 34,
-      "ms": 12671
+      "ms": 10452
     },
     {
       "company": "Linear",
       "ats": "Ashby",
       "status": "ok",
       "fetched": 30,
-      "ms": 32
+      "ms": 82
     },
     {
       "company": "Mastercard",
       "ats": "Workday",
       "status": "ok",
-      "fetched": 28,
-      "ms": 26447
+      "fetched": 29,
+      "ms": 23424
     },
     {
       "company": "Medtronic",
       "ats": "Workday",
       "status": "ok",
-      "fetched": 179,
-      "ms": 56829
+      "fetched": 178,
+      "ms": 56171
     },
     {
       "company": "Mercury",
       "ats": "Ashby",
       "status": "ok",
       "fetched": 0,
-      "ms": 13
+      "ms": 16
     },
     {
       "company": "Morgan Stanley",
       "ats": "Workday",
       "status": "ok",
       "fetched": 80,
-      "ms": 31447
+      "ms": 40902
     },
     {
       "company": "Nike",
       "ats": "Workday",
       "status": "ok",
       "fetched": 56,
-      "ms": 12309
+      "ms": 23923
     },
     {
       "company": "Notion",
       "ats": "Ashby",
       "status": "ok",
       "fetched": 127,
-      "ms": 184
+      "ms": 216
     },
     {
       "company": "OpenAI",
       "ats": "Ashby",
       "status": "ok",
-      "fetched": 795,
-      "ms": 281
+      "fetched": 794,
+      "ms": 334
     },
     {
       "company": "Oura",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 97,
-      "ms": 155
+      "ms": 236
     },
     {
       "company": "PepsiCo",
       "ats": "Workday",
       "status": "ok",
       "fetched": 0,
-      "ms": 57935
+      "ms": 60146
     },
     {
       "company": "PM Recruiting Hub — New Grad",
       "ats": "Community Feed",
       "status": "ok",
       "fetched": 5,
-      "ms": 75
+      "ms": 105
     },
     {
       "company": "PM Recruiting Hub — Product Management",
       "ats": "Community Feed",
       "status": "ok",
       "fetched": 6,
-      "ms": 93
+      "ms": 184
     },
     {
       "company": "PM Recruiting Hub — Product Operations",
       "ats": "Community Feed",
       "status": "ok",
       "fetched": 0,
-      "ms": 83
+      "ms": 88
     },
     {
       "company": "Postman",
@@ -393,178 +393,375 @@
       "ats": "Workday",
       "status": "ok",
       "fetched": 0,
-      "ms": 58037
+      "ms": 59602
     },
     {
       "company": "Ramp",
       "ats": "Ashby",
       "status": "ok",
       "fetched": 145,
-      "ms": 123
+      "ms": 100
     },
     {
       "company": "Reddit",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 148,
-      "ms": 259
+      "ms": 203
     },
     {
       "company": "Replit",
       "ats": "Ashby",
       "status": "ok",
       "fetched": 76,
-      "ms": 34
+      "ms": 207
     },
     {
       "company": "Robinhood",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 125,
-      "ms": 390
+      "ms": 328
     },
     {
       "company": "S&P Global",
       "ats": "Workday",
       "status": "ok",
       "fetched": 106,
-      "ms": 32216
+      "ms": 30487
     },
     {
       "company": "Samsara",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 262,
-      "ms": 627
+      "ms": 607
     },
     {
       "company": "Sierra",
       "ats": "Ashby",
       "status": "ok",
       "fetched": 210,
-      "ms": 112
+      "ms": 221
     },
     {
       "company": "Snowflake",
       "ats": "Ashby",
       "status": "ok",
       "fetched": 368,
-      "ms": 121
+      "ms": 471
     },
     {
       "company": "Spotify",
       "ats": "Lever",
       "status": "ok",
       "fetched": 72,
-      "ms": 1159
+      "ms": 1101
     },
     {
       "company": "Starbucks",
       "ats": "Workday",
       "status": "ok",
       "fetched": 0,
-      "ms": 61995
+      "ms": 62402
     },
     {
       "company": "Stripe",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 633,
-      "ms": 412
+      "ms": 326
     },
     {
       "company": "Target",
       "ats": "Workday",
       "status": "ok",
-      "fetched": 42,
-      "ms": 52906
+      "fetched": 43,
+      "ms": 49631
     },
     {
       "company": "Thomson Reuters",
       "ats": "Workday",
       "status": "ok",
       "fetched": 59,
-      "ms": 30921
+      "ms": 28298
     },
     {
       "company": "Twitch",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 55,
-      "ms": 202
+      "ms": 279
     },
     {
       "company": "Unilever",
       "ats": "Workday",
       "status": "ok",
-      "fetched": 55,
-      "ms": 31840
+      "fetched": 54,
+      "ms": 32871
     },
     {
       "company": "UnitedHealth Group / Optum",
       "ats": "Workday",
       "status": "ok",
       "fetched": 0,
-      "ms": 63424
+      "ms": 61622
     },
     {
       "company": "Vanguard",
       "ats": "Workday",
       "status": "ok",
       "fetched": 117,
-      "ms": 42042
+      "ms": 54056
     },
     {
       "company": "Vanta",
       "ats": "Ashby",
       "status": "ok",
       "fetched": 105,
-      "ms": 59
+      "ms": 77
     },
     {
       "company": "Vercel",
       "ats": "Ashby",
       "status": "ok",
       "fetched": 0,
-      "ms": 10
+      "ms": 187
     },
     {
       "company": "Walmart",
       "ats": "Workday",
       "status": "ok",
       "fetched": 0,
-      "ms": 62312
+      "ms": 61217
     },
     {
       "company": "Warner Bros. Discovery",
       "ats": "Workday",
       "status": "ok",
       "fetched": 76,
-      "ms": 29695
+      "ms": 28165
     },
     {
       "company": "West Monroe",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 0,
-      "ms": 56
+      "ms": 58
     },
     {
       "company": "West Monroe",
       "ats": "Greenhouse",
       "status": "ok",
       "fetched": 115,
-      "ms": 250
+      "ms": 220
     },
     {
       "company": "Zip",
       "ats": "Ashby",
       "status": "ok",
       "fetched": 124,
-      "ms": 54
+      "ms": 165
     }
   ],
   "jobs": [
+    {
+      "id": "c8dbca4569b0629980",
+      "company": "Disney",
+      "companyTier": "A",
+      "industry": "Media / Entertainment",
+      "title": "Intern, Brand & Content Marketing, Disney+ - Jan to Jun 2027",
+      "location": "Jakarta, Indonesia",
+      "employmentType": "Full time",
+      "postedAt": "2026-09-13T00:00:00.000Z",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Jakarta-Indonesia/Intern--Brand---Content-Marketing--Disney----Jan-to-Jun-2027_10160460",
+      "source": "Workday",
+      "category": "GTM & Commercial",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Internship",
+        "Priority A"
+      ],
+      "matchScore": 88,
+      "scoreBreakdown": {
+        "roleFit": 86,
+        "experienceFit": 75,
+        "companyFit": 95,
+        "careerFit": 100,
+        "freshness": 100
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "8378699f3d581148e4",
+      "company": "Disney",
+      "companyTier": "A",
+      "industry": "Media / Entertainment",
+      "title": "Intern, Integrated Marketing, Studios - Jan to Jun 2027",
+      "location": "Singapore, Singapore",
+      "employmentType": "Full time",
+      "postedAt": "2026-09-13T00:00:00.000Z",
+      "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Singapore-Singapore/Intern--Integrated-Marketing--Studios---Jan-to-Jun-2027_10160454",
+      "source": "Workday",
+      "category": "GTM & Commercial",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Internship",
+        "Priority A"
+      ],
+      "matchScore": 89,
+      "scoreBreakdown": {
+        "roleFit": 86,
+        "experienceFit": 80,
+        "companyFit": 95,
+        "careerFit": 100,
+        "freshness": 100
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "360ce55e03215b634f",
+      "company": "Veeva Systems",
+      "companyTier": "U",
+      "industry": "Healthcare / Pharma / Medtech",
+      "title": "Associate Product Manager - Vault CRM Suite",
+      "location": "Massachusetts - Boston",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-13T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a0ad6e8a203b1052e44f280?utm_campaign=Product%20Management&utm_source=1103",
+      "source": "Jobright — Product Management New Grad",
+      "category": "Product",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Remote",
+        "Other Company"
+      ],
+      "matchScore": 84,
+      "scoreBreakdown": {
+        "roleFit": 99,
+        "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 100
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "a2e0e64baf1e9e8069",
+      "company": "Veeva Systems",
+      "companyTier": "U",
+      "industry": "Healthcare / Pharma / Medtech",
+      "title": "Associate Product Manager - Vault CRM Suite",
+      "location": "California - Pleasanton",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-13T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a0ad6e9ef3b13362e7d6d19?utm_campaign=Product%20Management&utm_source=1103",
+      "source": "Jobright — Product Management New Grad",
+      "category": "Product",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Remote",
+        "Other Company"
+      ],
+      "matchScore": 84,
+      "scoreBreakdown": {
+        "roleFit": 99,
+        "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 100
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "5931c5ca4f2202f22d",
+      "company": "Veeva Systems",
+      "companyTier": "U",
+      "industry": "Healthcare / Pharma / Medtech",
+      "title": "Associate Product Manager - Vault CRM Suite",
+      "location": "Boston, MA, United States",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-13T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a62e4de32abf9182432c142?utm_campaign=Product%20Management&utm_source=1103",
+      "source": "Jobright — Product Management New Grad",
+      "category": "Product",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Remote",
+        "Other Company"
+      ],
+      "matchScore": 84,
+      "scoreBreakdown": {
+        "roleFit": 99,
+        "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 100
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "6251e9ce205ea5d115",
+      "company": "Yes Energy",
+      "companyTier": "U",
+      "industry": "Other",
+      "title": "Product Owner",
+      "location": "Boulder, CO, United States",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-13T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a6921fa5d01972698ee69d4?utm_campaign=Product%20Management&utm_source=1103",
+      "source": "Jobright — Product Management New Grad",
+      "category": "Product",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Other Company"
+      ],
+      "matchScore": 83,
+      "scoreBreakdown": {
+        "roleFit": 95,
+        "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 100
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
     {
       "id": "0bc10744e0b194f98f",
       "company": "National Football League (NFL)",
@@ -586,6 +783,39 @@
       "scoreBreakdown": {
         "roleFit": 95,
         "experienceFit": 65,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 100
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "449cac820aed4b40d5",
+      "company": "Springs Window Fashions",
+      "companyTier": "U",
+      "industry": "Other",
+      "title": "Product Management Competitive Product Assessment Intern - summer 2027",
+      "location": "Middleton, WI, United States",
+      "employmentType": "Internship",
+      "postedAt": "2026-09-13T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a89b3c5e8b6601d1290a1a6?utm_campaign=1047&utm_source=git",
+      "source": "Jobright — Product Management Internships",
+      "category": "Product",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Internship",
+        "Other Company"
+      ],
+      "matchScore": 83,
+      "scoreBreakdown": {
+        "roleFit": 95,
+        "experienceFit": 60,
         "companyFit": 74,
         "careerFit": 100,
         "freshness": 100
@@ -718,6 +948,38 @@
         "experienceFit": 60,
         "companyFit": 74,
         "careerFit": 88,
+        "freshness": 100
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "3329bb0b2658a738d3",
+      "company": "Navan",
+      "companyTier": "U",
+      "industry": "Financial Services / Fintech",
+      "title": "Mid-Market Solutions Consultant - Expense",
+      "location": "Palo Alto, CA or San Francisco, CA",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-13T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6864d211be4482d8971f4672?utm_campaign=Consultant&utm_source=1103",
+      "source": "Jobright — Consultant New Grad",
+      "category": "Customer & Solutions",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Other Company"
+      ],
+      "matchScore": 79,
+      "scoreBreakdown": {
+        "roleFit": 82,
+        "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 100,
         "freshness": 100
       },
       "salaryKnown": false,
@@ -1115,6 +1377,38 @@
       "salaryText": null
     },
     {
+      "id": "b2444ba30f122f2151",
+      "company": "Federal Signal",
+      "companyTier": "U",
+      "industry": "Other",
+      "title": "Product Specialist - Systems",
+      "location": "University Park, IL, United States",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-12T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6aa27afb1e8cae4c1344423e?utm_campaign=Product%20Management&utm_source=1103",
+      "source": "Jobright — Product Management New Grad",
+      "category": "Product",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Other Company"
+      ],
+      "matchScore": 82,
+      "scoreBreakdown": {
+        "roleFit": 95,
+        "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 90
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
       "id": "1e0b7dd5d69dcfaf61",
       "company": "Jacques Marie Mage",
       "companyTier": "U",
@@ -1276,38 +1570,6 @@
       "salaryText": null
     },
     {
-      "id": "4d6b3063b0e3fa1af3",
-      "company": "Coinbase",
-      "companyTier": "U",
-      "industry": "Financial Services / Fintech",
-      "title": "Product Manager (HR Technology) Intern",
-      "location": "New York, NY, United States",
-      "employmentType": "Internship",
-      "postedAt": "2026-09-12T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa08bc4dbc0e60e37e0e537?utm_campaign=1047&utm_source=git",
-      "source": "Jobright — Product Management Internships",
-      "category": "Product",
-      "experienceBand": "Early Career",
-      "tags": [
-        "Internship",
-        "Other Company"
-      ],
-      "matchScore": 81,
-      "scoreBreakdown": {
-        "roleFit": 95,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 88,
-        "freshness": 90
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
       "id": "206bf9dcde3ca08f65",
       "company": "Coinbase",
       "companyTier": "U",
@@ -1327,6 +1589,38 @@
       "matchScore": 82,
       "scoreBreakdown": {
         "roleFit": 99,
+        "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 88,
+        "freshness": 90
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "4d6b3063b0e3fa1af3",
+      "company": "Coinbase",
+      "companyTier": "U",
+      "industry": "Financial Services / Fintech",
+      "title": "Product Manager (HR Technology) Intern",
+      "location": "New York, NY, United States",
+      "employmentType": "Internship",
+      "postedAt": "2026-09-12T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6aa08bc4dbc0e60e37e0e537?utm_campaign=1047&utm_source=git",
+      "source": "Jobright — Product Management Internships",
+      "category": "Product",
+      "experienceBand": "Early Career",
+      "tags": [
+        "Internship",
+        "Other Company"
+      ],
+      "matchScore": 81,
+      "scoreBreakdown": {
+        "roleFit": 95,
         "experienceFit": 60,
         "companyFit": 74,
         "careerFit": 88,
@@ -1406,7 +1700,7 @@
       "salaryText": null
     },
     {
-      "id": "48acd8e65b0d5c046c",
+      "id": "c16829c270200d02a6",
       "company": "Microsoft",
       "companyTier": "A",
       "industry": "Tech / SaaS / AI",
@@ -1414,7 +1708,7 @@
       "location": "Redmond, WA, United States",
       "employmentType": "Internship",
       "postedAt": "2026-09-12T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa4914f422289703bd6711e?utm_campaign=1047&utm_source=git",
+      "url": "https://jobright.ai/jobs/info/6aa472fd8275e3a21176066f?utm_campaign=1047&utm_source=git",
       "source": "Jobright — Product Management Internships",
       "category": "Product",
       "experienceBand": "Early Career",
@@ -1438,7 +1732,7 @@
       "salaryText": null
     },
     {
-      "id": "ff7a8c22c248f6cbb0",
+      "id": "5e5c546c3434aaaf14",
       "company": "L3Harris Technologies",
       "companyTier": "U",
       "industry": "Other",
@@ -1446,7 +1740,7 @@
       "location": "Lynchburg, VA, United States",
       "employmentType": "Internship",
       "postedAt": "2026-09-12T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa4e95042411952ff9a610f?utm_campaign=1047&utm_source=git",
+      "url": "https://jobright.ai/jobs/info/6aa3e7cef3aa936e2cdae93a?utm_campaign=1047&utm_source=git",
       "source": "Jobright — Product Management Internships",
       "category": "Product",
       "experienceBand": "Early Career",
@@ -2310,6 +2604,38 @@
       "salaryText": null
     },
     {
+      "id": "7bd70d541d1821033c",
+      "company": "Dollar Tree Stores",
+      "companyTier": "U",
+      "industry": "Other",
+      "title": "Analyst I, Customer Insights & Analytics",
+      "location": "Chesapeake, VA, United States",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-12T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a50271b9469c06620350628?utm_campaign=Data%20Analysis&utm_source=1103",
+      "source": "Jobright — Data Analysis New Grad",
+      "category": "Research & Insights",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Other Company"
+      ],
+      "matchScore": 81,
+      "scoreBreakdown": {
+        "roleFit": 85,
+        "experienceFit": 70,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 90
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
       "id": "608bd3e1902b9f0d2b",
       "company": "Morgan Stanley",
       "companyTier": "A",
@@ -2331,38 +2657,6 @@
         "roleFit": 91,
         "experienceFit": 60,
         "companyFit": 95,
-        "careerFit": 100,
-        "freshness": 90
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
-      "id": "21d405d238c1e4ec8b",
-      "company": "Dollar Tree Stores",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "Analyst I, Customer Insights & Analytics",
-      "location": "Chesapeake, VA, United States",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-12T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a642cf48d53603449605c66?utm_campaign=Data%20Analysis&utm_source=1103",
-      "source": "Jobright — Data Analysis New Grad",
-      "category": "Research & Insights",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Other Company"
-      ],
-      "matchScore": 81,
-      "scoreBreakdown": {
-        "roleFit": 85,
-        "experienceFit": 70,
-        "companyFit": 74,
         "careerFit": 100,
         "freshness": 90
       },
@@ -3772,105 +4066,6 @@
       "salaryText": null
     },
     {
-      "id": "7b85af360c7d331d92",
-      "company": "Veeva Systems",
-      "companyTier": "U",
-      "industry": "Healthcare / Pharma / Medtech",
-      "title": "Associate Product Manager - Vault CRM Suite",
-      "location": "Massachusetts - Boston",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a0ad6e26186f46859892bff?utm_campaign=Product%20Management&utm_source=1103",
-      "source": "Jobright — Product Management New Grad",
-      "category": "Product",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Remote",
-        "Other Company"
-      ],
-      "matchScore": 83,
-      "scoreBreakdown": {
-        "roleFit": 99,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 90
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
-      "id": "5931c5ca4f2202f22d",
-      "company": "Veeva Systems",
-      "companyTier": "U",
-      "industry": "Healthcare / Pharma / Medtech",
-      "title": "Associate Product Manager - Vault CRM Suite",
-      "location": "Boston, MA, United States",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a62e4de32abf9182432c142?utm_campaign=Product%20Management&utm_source=1103",
-      "source": "Jobright — Product Management New Grad",
-      "category": "Product",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Remote",
-        "Other Company"
-      ],
-      "matchScore": 83,
-      "scoreBreakdown": {
-        "roleFit": 99,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 90
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
-      "id": "088c28642127ead071",
-      "company": "Veeva Systems",
-      "companyTier": "U",
-      "industry": "Healthcare / Pharma / Medtech",
-      "title": "Associate Product Manager - Vault CRM Suite",
-      "location": "California - Pleasanton",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a1d59496b135014dbc95dc8?utm_campaign=Product%20Management&utm_source=1103",
-      "source": "Jobright — Product Management New Grad",
-      "category": "Product",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Remote",
-        "Other Company"
-      ],
-      "matchScore": 83,
-      "scoreBreakdown": {
-        "roleFit": 99,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 90
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
       "id": "5ab4bd36f9f2deae46",
       "company": "Goldman Sachs",
       "companyTier": "A",
@@ -3998,7 +4193,7 @@
       "salaryText": null
     },
     {
-      "id": "62b38d0ccccb78bdd4",
+      "id": "a9364e8af25c8cd393",
       "company": "Indigo",
       "companyTier": "U",
       "industry": "Other",
@@ -4006,7 +4201,7 @@
       "location": "Toronto, ON, Canada",
       "employmentType": "New Grad",
       "postedAt": "2026-09-11T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a9a100e551435518ebf2db8?utm_campaign=Product%20Management&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a9b6cccd5ff1f3f1c39f12f?utm_campaign=Product%20Management&utm_source=1103",
       "source": "Jobright — Product Management New Grad",
       "category": "Product",
       "experienceBand": "Early Career",
@@ -4030,7 +4225,7 @@
       "salaryText": null
     },
     {
-      "id": "f0e847cb15b1994139",
+      "id": "ed9175fb53c73c5c8e",
       "company": "Indigo",
       "companyTier": "U",
       "industry": "Other",
@@ -4038,7 +4233,7 @@
       "location": "Pointe-Claire, QC, Canada",
       "employmentType": "New Grad",
       "postedAt": "2026-09-11T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a7621cc7b3417772ade6dfa?utm_campaign=Product%20Management&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a7621dea26ccc369f833e02?utm_campaign=Product%20Management&utm_source=1103",
       "source": "Jobright — Product Management New Grad",
       "category": "Product",
       "experienceBand": "Early Career",
@@ -4639,15 +4834,15 @@
       "salaryText": null
     },
     {
-      "id": "56ebe0282299767936",
+      "id": "8c984cfae3bf146222",
       "company": "Deloitte",
       "companyTier": "A",
       "industry": "Consulting",
       "title": "Converge Life Sciences - GTM Product Strategy Analyst - Innovation_Delivery_Transformation",
-      "location": "Dallas, TX, United States",
+      "location": "San Jose, CA, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-11T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa3f453422289703bd64540?utm_campaign=Product%20Management&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6aa3f136f3aa936e2cdaed5d?utm_campaign=Product%20Management&utm_source=1103",
       "source": "Jobright — Product Management New Grad",
       "category": "Product",
       "experienceBand": "Early Career",
@@ -4671,15 +4866,15 @@
       "salaryText": null
     },
     {
-      "id": "8c984cfae3bf146222",
+      "id": "56ebe0282299767936",
       "company": "Deloitte",
       "companyTier": "A",
       "industry": "Consulting",
       "title": "Converge Life Sciences - GTM Product Strategy Analyst - Innovation_Delivery_Transformation",
-      "location": "San Jose, CA, United States",
+      "location": "Dallas, TX, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-11T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa3f136f3aa936e2cdaed5d?utm_campaign=Product%20Management&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6aa3f453422289703bd64540?utm_campaign=Product%20Management&utm_source=1103",
       "source": "Jobright — Product Management New Grad",
       "category": "Product",
       "experienceBand": "Early Career",
@@ -5540,7 +5735,7 @@
       "salaryText": null
     },
     {
-      "id": "a33a38dc9cca717c90",
+      "id": "d6d45cbef124820973",
       "company": "Guidehouse",
       "companyTier": "B",
       "industry": "Consulting",
@@ -5548,7 +5743,7 @@
       "location": "Fairview Heights, IL, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-11T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa151bddbc0e60e37e10b87?utm_campaign=Business%20Analyst&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a6a235216c69119640fc8a4?utm_campaign=Business%20Analyst&utm_source=1103",
       "source": "Jobright — Business Analyst New Grad",
       "category": "Business & Analytics",
       "experienceBand": "Early Career",
@@ -5732,72 +5927,6 @@
       "salaryText": null
     },
     {
-      "id": "f44cc9730d272a9bad",
-      "company": "Spectrum",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "2027 Summer Intern: Business Analyst",
-      "location": "Stamford, CT, United States",
-      "employmentType": "Internship",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a99d7631388387060590cb2?utm_campaign=1067&utm_source=git",
-      "source": "Jobright — Business Analyst Internships",
-      "category": "Business & Analytics",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Internship",
-        "Other Company"
-      ],
-      "matchScore": 82,
-      "scoreBreakdown": {
-        "roleFit": 95,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 90
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
-      "id": "a1003125ed37c572f1",
-      "company": "Spectrum",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "2027 Summer Intern: Business Analyst",
-      "location": "Greenwood Village, CO, United States",
-      "employmentType": "Internship",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a9a474afe45b8490f603454?utm_campaign=1067&utm_source=git",
-      "source": "Jobright — Business Analyst Internships",
-      "category": "Business & Analytics",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Internship",
-        "Other Company"
-      ],
-      "matchScore": 82,
-      "scoreBreakdown": {
-        "roleFit": 95,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 90
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
       "id": "2b4f83e793f470a54d",
       "company": "Spectrum",
       "companyTier": "U",
@@ -5807,6 +5936,39 @@
       "employmentType": "Internship",
       "postedAt": "2026-09-11T00:00:00.000Z",
       "url": "https://jobright.ai/jobs/info/6a99d736ad752e2ad5502588?utm_campaign=1067&utm_source=git",
+      "source": "Jobright — Business Analyst Internships",
+      "category": "Business & Analytics",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Internship",
+        "Other Company"
+      ],
+      "matchScore": 82,
+      "scoreBreakdown": {
+        "roleFit": 95,
+        "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 90
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "6dddb68dc9d85d0a38",
+      "company": "Spectrum",
+      "companyTier": "U",
+      "industry": "Other",
+      "title": "2027 Summer Intern: Business Analyst",
+      "location": "Stamford, CT, United States",
+      "employmentType": "Internship",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6aa465bff3aa936e2cdb11d3?utm_campaign=1067&utm_source=git",
       "source": "Jobright — Business Analyst Internships",
       "category": "Business & Analytics",
       "experienceBand": "Early Career",
@@ -6153,15 +6315,15 @@
       "salaryText": null
     },
     {
-      "id": "fe84039004fa6b8dfb",
+      "id": "be1f916ee949915a80",
       "company": "Veeva Systems",
       "companyTier": "U",
       "industry": "Healthcare / Pharma / Medtech",
       "title": "Associate Consultant - Entry-Level Technology Consulting",
-      "location": "New York City, NY, United States",
+      "location": "London, England, United Kingdom",
       "employmentType": "New Grad",
       "postedAt": "2026-09-11T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a91e5f78e596854533783e1?utm_campaign=Consultant&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a91e5e5a27a2d3c9848a89f?utm_campaign=Consultant&utm_source=1103",
       "source": "Jobright — Consultant New Grad",
       "category": "Consulting & Transformation",
       "experienceBand": "Early Career",
@@ -6186,15 +6348,15 @@
       "salaryText": null
     },
     {
-      "id": "be1f916ee949915a80",
+      "id": "fe84039004fa6b8dfb",
       "company": "Veeva Systems",
       "companyTier": "U",
       "industry": "Healthcare / Pharma / Medtech",
       "title": "Associate Consultant - Entry-Level Technology Consulting",
-      "location": "London, England, United Kingdom",
+      "location": "New York City, NY, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-11T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a91e5e5a27a2d3c9848a89f?utm_campaign=Consultant&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a91e5f78e596854533783e1?utm_campaign=Consultant&utm_source=1103",
       "source": "Jobright — Consultant New Grad",
       "category": "Consulting & Transformation",
       "experienceBand": "Early Career",
@@ -6930,7 +7092,7 @@
       "salaryText": null
     },
     {
-      "id": "02697057482697697b",
+      "id": "ceeb1a57f14c6b2a7f",
       "company": "The Culinary Institute of America",
       "companyTier": "U",
       "industry": "Other",
@@ -6938,7 +7100,7 @@
       "location": "Hyde Park, NY, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-11T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a7f6e81b56bea5779c0b314?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a7f7458e2030208f276e39f?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -7319,38 +7481,6 @@
       "salaryText": null
     },
     {
-      "id": "a9739fbaaa129418d3",
-      "company": "MJH Life Sciences®",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "Digital Marketing Coordinator",
-      "location": "Cranbury, NJ, United States of America",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a51d93dbf63b66c7997dd66?utm_campaign=Marketing&utm_source=1103",
-      "source": "Jobright — Marketing New Grad",
-      "category": "GTM & Commercial",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Other Company"
-      ],
-      "matchScore": 80,
-      "scoreBreakdown": {
-        "roleFit": 86,
-        "experienceFit": 65,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 90
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
       "id": "5eeed71c33a8468f1c",
       "company": "MJH Life Sciences®",
       "companyTier": "U",
@@ -7383,6 +7513,38 @@
       "salaryText": null
     },
     {
+      "id": "a9739fbaaa129418d3",
+      "company": "MJH Life Sciences®",
+      "companyTier": "U",
+      "industry": "Other",
+      "title": "Digital Marketing Coordinator",
+      "location": "Cranbury, NJ, United States of America",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a51d93dbf63b66c7997dd66?utm_campaign=Marketing&utm_source=1103",
+      "source": "Jobright — Marketing New Grad",
+      "category": "GTM & Commercial",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Other Company"
+      ],
+      "matchScore": 80,
+      "scoreBreakdown": {
+        "roleFit": 86,
+        "experienceFit": 65,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 90
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
       "id": "15325bddc670043597",
       "company": "Spiralyze",
       "companyTier": "U",
@@ -7392,6 +7554,39 @@
       "employmentType": "New Grad",
       "postedAt": "2026-09-11T00:00:00.000Z",
       "url": "https://jobright.ai/jobs/info/6aa4c04a930bff471a29b6cf?utm_campaign=Marketing&utm_source=1103",
+      "source": "Jobright — Marketing New Grad",
+      "category": "GTM & Commercial",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Remote",
+        "Other Company"
+      ],
+      "matchScore": 79,
+      "scoreBreakdown": {
+        "roleFit": 86,
+        "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 90
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "d096b281916da40262",
+      "company": "Veeva Systems",
+      "companyTier": "U",
+      "industry": "Healthcare / Pharma / Medtech",
+      "title": "Field Marketing Associate",
+      "location": "Missouri - Kansas City",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a0ad6ee8f3e371eb618a991?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -7464,38 +7659,6 @@
       "tags": [
         "New Grad",
         "Remote",
-        "Other Company"
-      ],
-      "matchScore": 79,
-      "scoreBreakdown": {
-        "roleFit": 86,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 90
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
-      "id": "0d49c18d70816c4118",
-      "company": "Veeva Systems",
-      "companyTier": "U",
-      "industry": "Healthcare / Pharma / Medtech",
-      "title": "Field Marketing Associate",
-      "location": "Missouri - Kansas City",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/688018f52097a271a89a0e8d?utm_campaign=Marketing&utm_source=1103",
-      "source": "Jobright — Marketing New Grad",
-      "category": "GTM & Commercial",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
         "Other Company"
       ],
       "matchScore": 79,
@@ -7742,6 +7905,38 @@
       "salaryText": null
     },
     {
+      "id": "cf5afc3cbb11516527",
+      "company": "Perkins&Will",
+      "companyTier": "U",
+      "industry": "Other",
+      "title": "Marketing Coordinator",
+      "location": "Los Angeles, CA, United States",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-11T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a873414680f314a29d378f4?utm_campaign=Marketing&utm_source=1103",
+      "source": "Jobright — Marketing New Grad",
+      "category": "GTM & Commercial",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Other Company"
+      ],
+      "matchScore": 79,
+      "scoreBreakdown": {
+        "roleFit": 86,
+        "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 90
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
       "id": "5c2812c88bed21e61b",
       "company": "Perkins&Will",
       "companyTier": "U",
@@ -7783,38 +7978,6 @@
       "employmentType": "New Grad",
       "postedAt": "2026-09-11T00:00:00.000Z",
       "url": "https://jobright.ai/jobs/info/6a73a95732ebbc14ffb506f4?utm_campaign=Marketing&utm_source=1103",
-      "source": "Jobright — Marketing New Grad",
-      "category": "GTM & Commercial",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Other Company"
-      ],
-      "matchScore": 79,
-      "scoreBreakdown": {
-        "roleFit": 86,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 90
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
-      "id": "cf5afc3cbb11516527",
-      "company": "Perkins&Will",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "Marketing Coordinator",
-      "location": "Los Angeles, CA, United States",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-11T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a873414680f314a29d378f4?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -10197,38 +10360,6 @@
       "salaryText": null
     },
     {
-      "id": "16d1d9a318d23d5d22",
-      "company": "Mizuho OSI",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "Regional Product Specialist",
-      "location": "Atlanta, GA, United States",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-10T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a69c05b19d76667a2abc1fe?utm_campaign=Product%20Management&utm_source=1103",
-      "source": "Jobright — Product Management New Grad",
-      "category": "Product",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Other Company"
-      ],
-      "matchScore": 81,
-      "scoreBreakdown": {
-        "roleFit": 95,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 78
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
       "id": "412530d462c3fb7c1e",
       "company": "Mizuho OSI",
       "companyTier": "U",
@@ -10261,15 +10392,15 @@
       "salaryText": null
     },
     {
-      "id": "b2444ba30f122f2151",
-      "company": "Federal Signal",
+      "id": "16d1d9a318d23d5d22",
+      "company": "Mizuho OSI",
       "companyTier": "U",
       "industry": "Other",
-      "title": "Product Specialist - Systems",
-      "location": "University Park, IL, United States",
+      "title": "Regional Product Specialist",
+      "location": "Atlanta, GA, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-10T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa27afb1e8cae4c1344423e?utm_campaign=Product%20Management&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a69c05b19d76667a2abc1fe?utm_campaign=Product%20Management&utm_source=1103",
       "source": "Jobright — Product Management New Grad",
       "category": "Product",
       "experienceBand": "Early Career",
@@ -10617,7 +10748,7 @@
       "salaryText": null
     },
     {
-      "id": "f853cd6bb496762e41",
+      "id": "57d332debe906380ff",
       "company": "Hunter Engineering Company",
       "companyTier": "U",
       "industry": "Other",
@@ -10625,7 +10756,7 @@
       "location": "Bridgeton, MO, United States",
       "employmentType": "Internship",
       "postedAt": "2026-09-10T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a86111674e02153f145a2dc?utm_campaign=1047&utm_source=git",
+      "url": "https://jobright.ai/jobs/info/6a8f92ff7c32860d14cf6421?utm_campaign=1047&utm_source=git",
       "source": "Jobright — Product Management Internships",
       "category": "Product",
       "experienceBand": "Early Career",
@@ -11646,6 +11777,39 @@
       "salaryText": null
     },
     {
+      "id": "44f6274154d3a11b98",
+      "company": "Veeva Systems",
+      "companyTier": "U",
+      "industry": "Healthcare / Pharma / Medtech",
+      "title": "Associate Consultant - Entry-Level Technology Consulting (Life Sciences)",
+      "location": "New York City, NY, United States",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a59a96d63a8f619507c33a5?utm_campaign=Consultant&utm_source=1103",
+      "source": "Jobright — Consultant New Grad",
+      "category": "Consulting & Transformation",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Entry Level",
+        "Other Company"
+      ],
+      "matchScore": 80,
+      "scoreBreakdown": {
+        "roleFit": 92,
+        "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 78
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
       "id": "9d76e77b1d1154c71d",
       "company": "Veeva Systems",
       "companyTier": "U",
@@ -11712,39 +11876,6 @@
       "salaryText": null
     },
     {
-      "id": "44f6274154d3a11b98",
-      "company": "Veeva Systems",
-      "companyTier": "U",
-      "industry": "Healthcare / Pharma / Medtech",
-      "title": "Associate Consultant - Entry-Level Technology Consulting (Life Sciences)",
-      "location": "New York City, NY, United States",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-10T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a59a96d63a8f619507c33a5?utm_campaign=Consultant&utm_source=1103",
-      "source": "Jobright — Consultant New Grad",
-      "category": "Consulting & Transformation",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Entry Level",
-        "Other Company"
-      ],
-      "matchScore": 80,
-      "scoreBreakdown": {
-        "roleFit": 92,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 78
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
       "id": "f9f3e1eb29a158436c",
       "company": "GRAYCE",
       "companyTier": "U",
@@ -11777,15 +11908,15 @@
       "salaryText": null
     },
     {
-      "id": "4f927daec88196a949",
+      "id": "d2573752921b5dfe69",
       "company": "RSM US LLP",
       "companyTier": "U",
       "industry": "Other",
-      "title": "Strategy & Management Consulting Intern - Summer 2027",
-      "location": "Toronto, ON, Canada",
+      "title": "Strategy & Management Consulting Intern- Summer 2027",
+      "location": "Edmonton, AB, Canada",
       "employmentType": "Internship",
       "postedAt": "2026-09-10T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a9af3999c24314c35f963fb?utm_campaign=1063&utm_source=git",
+      "url": "https://jobright.ai/jobs/info/6a9af3962cdc5958f53e95e8?utm_campaign=1063&utm_source=git",
       "source": "Jobright — Consultant Internships",
       "category": "Consulting & Transformation",
       "experienceBand": "Early Career",
@@ -11810,15 +11941,15 @@
       "salaryText": null
     },
     {
-      "id": "d2573752921b5dfe69",
+      "id": "4f927daec88196a949",
       "company": "RSM US LLP",
       "companyTier": "U",
       "industry": "Other",
-      "title": "Strategy & Management Consulting Intern- Summer 2027",
-      "location": "Edmonton, AB, Canada",
+      "title": "Strategy & Management Consulting Intern - Summer 2027",
+      "location": "Toronto, ON, Canada",
       "employmentType": "Internship",
       "postedAt": "2026-09-10T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a9af3962cdc5958f53e95e8?utm_campaign=1063&utm_source=git",
+      "url": "https://jobright.ai/jobs/info/6a9af3999c24314c35f963fb?utm_campaign=1063&utm_source=git",
       "source": "Jobright — Consultant Internships",
       "category": "Consulting & Transformation",
       "experienceBand": "Early Career",
@@ -12069,15 +12200,15 @@
       "salaryText": null
     },
     {
-      "id": "28febb39742f70b5cd",
+      "id": "da14a0c1ee40db1e51",
       "company": "State Farm Agent",
       "companyTier": "U",
       "industry": "Other",
-      "title": "Future Opening:  Marketing Coordinator - State Farm Agent Team Member",
-      "location": "PA-York-17404",
+      "title": "Apertura Futura:  Marketing Coordinator - State Farm Agent Team Member",
+      "location": "Dixon, CA 95618",
       "employmentType": "New Grad",
       "postedAt": "2026-09-10T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a5bfebf686b4755d1e1ac10?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/68cc0e6e7342c7623ae5e521?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -12133,15 +12264,15 @@
       "salaryText": null
     },
     {
-      "id": "da14a0c1ee40db1e51",
+      "id": "28febb39742f70b5cd",
       "company": "State Farm Agent",
       "companyTier": "U",
       "industry": "Other",
-      "title": "Apertura Futura:  Marketing Coordinator - State Farm Agent Team Member",
-      "location": "Dixon, CA 95618",
+      "title": "Future Opening:  Marketing Coordinator - State Farm Agent Team Member",
+      "location": "PA-York-17404",
       "employmentType": "New Grad",
       "postedAt": "2026-09-10T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/68cc0e6e7342c7623ae5e521?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a5bfebf686b4755d1e1ac10?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -12677,15 +12808,15 @@
       "salaryText": null
     },
     {
-      "id": "a6e672aaee11ff77d1",
+      "id": "2a37858af3caae379b",
       "company": "Travel + Leisure Co.",
       "companyTier": "U",
       "industry": "Other",
-      "title": "Community Marketing Agent",
-      "location": "San Diego, CA, United States",
+      "title": "Community Marketing Agent Sea World",
+      "location": "San Diego, California, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-10T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a8fd9c60bd89e205d247d98?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a91e93dd18f75674827aaa8?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -12709,15 +12840,15 @@
       "salaryText": null
     },
     {
-      "id": "2a37858af3caae379b",
+      "id": "a6e672aaee11ff77d1",
       "company": "Travel + Leisure Co.",
       "companyTier": "U",
       "industry": "Other",
-      "title": "Community Marketing Agent Sea World",
-      "location": "San Diego, California, United States",
+      "title": "Community Marketing Agent",
+      "location": "San Diego, CA, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-10T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a91e93dd18f75674827aaa8?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a8fd9c60bd89e205d247d98?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -13157,8 +13288,8 @@
       "salaryText": null
     },
     {
-      "id": "3f2d9ede2cdae47121",
-      "company": "Prestige Pawnbrokers-Posh Pawn",
+      "id": "cf895116fcdb76fee6",
+      "company": "Prestige Pawnbrokers - Posh Pawn",
       "companyTier": "U",
       "industry": "Other",
       "title": "Junior Digital Marketing Executive",
@@ -13316,37 +13447,6 @@
       "salaryText": null
     },
     {
-      "id": "08d314c07be4b008b5",
-      "company": "Fidelity",
-      "companyTier": "B",
-      "industry": "Financial Services / Fintech",
-      "title": "Co-op, Business Analyst",
-      "location": "Boston, MA, United States",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-10T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa4788e1d92e2d05d114def?utm_campaign=Data%20Analysis&utm_source=1103",
-      "source": "Jobright — Data Analysis New Grad",
-      "category": "Business & Analytics",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad"
-      ],
-      "matchScore": 82,
-      "scoreBreakdown": {
-        "roleFit": 95,
-        "experienceFit": 60,
-        "companyFit": 82,
-        "careerFit": 100,
-        "freshness": 78
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
       "id": "8f53f725e7d394e255",
       "company": "Fidelity",
       "companyTier": "B",
@@ -13365,6 +13465,37 @@
       "matchScore": 81,
       "scoreBreakdown": {
         "roleFit": 91,
+        "experienceFit": 60,
+        "companyFit": 82,
+        "careerFit": 100,
+        "freshness": 78
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "08d314c07be4b008b5",
+      "company": "Fidelity",
+      "companyTier": "B",
+      "industry": "Financial Services / Fintech",
+      "title": "Co-op, Business Analyst",
+      "location": "Boston, MA, United States",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6aa4788e1d92e2d05d114def?utm_campaign=Data%20Analysis&utm_source=1103",
+      "source": "Jobright — Data Analysis New Grad",
+      "category": "Business & Analytics",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad"
+      ],
+      "matchScore": 82,
+      "scoreBreakdown": {
+        "roleFit": 95,
         "experienceFit": 60,
         "companyFit": 82,
         "careerFit": 100,
@@ -13861,70 +13992,6 @@
       "salaryText": null
     },
     {
-      "id": "f1337f77232164ffe3",
-      "company": "Charles River Laboratories",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "Research Analyst I Job Details / Charles River Laboratories, Inc.",
-      "location": "Shrewsbury, MA, United States",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-10T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a9857c983fc633357630f97?utm_campaign=Data%20Analysis&utm_source=1103",
-      "source": "Jobright — Data Analysis New Grad",
-      "category": "Research & Insights",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Other Company"
-      ],
-      "matchScore": 79,
-      "scoreBreakdown": {
-        "roleFit": 85,
-        "experienceFit": 65,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 78
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
-      "id": "9348d42fbc2de79510",
-      "company": "Charles River Laboratories",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "Research Analyst I Job Details / Charles River Laboratories, Inc.",
-      "location": "Mattawan, MI, United States",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-10T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a9857a983fc633357630f7e?utm_campaign=Data%20Analysis&utm_source=1103",
-      "source": "Jobright — Data Analysis New Grad",
-      "category": "Research & Insights",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Other Company"
-      ],
-      "matchScore": 79,
-      "scoreBreakdown": {
-        "roleFit": 85,
-        "experienceFit": 65,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 78
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
       "id": "320c0befb5b704f950",
       "company": "Charles River Laboratories",
       "companyTier": "U",
@@ -13957,6 +14024,38 @@
       "salaryText": null
     },
     {
+      "id": "f1337f77232164ffe3",
+      "company": "Charles River Laboratories",
+      "companyTier": "U",
+      "industry": "Other",
+      "title": "Research Analyst I Job Details / Charles River Laboratories, Inc.",
+      "location": "Shrewsbury, MA, United States",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a9857c983fc633357630f97?utm_campaign=Data%20Analysis&utm_source=1103",
+      "source": "Jobright — Data Analysis New Grad",
+      "category": "Research & Insights",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Other Company"
+      ],
+      "matchScore": 79,
+      "scoreBreakdown": {
+        "roleFit": 85,
+        "experienceFit": 65,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 78
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
       "id": "dfc53fd73133b8134d",
       "company": "Charles River Laboratories",
       "companyTier": "U",
@@ -13977,6 +14076,38 @@
       "scoreBreakdown": {
         "roleFit": 85,
         "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 78
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "9348d42fbc2de79510",
+      "company": "Charles River Laboratories",
+      "companyTier": "U",
+      "industry": "Other",
+      "title": "Research Analyst I Job Details / Charles River Laboratories, Inc.",
+      "location": "Mattawan, MI, United States",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-10T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a9857a983fc633357630f7e?utm_campaign=Data%20Analysis&utm_source=1103",
+      "source": "Jobright — Data Analysis New Grad",
+      "category": "Research & Insights",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Other Company"
+      ],
+      "matchScore": 79,
+      "scoreBreakdown": {
+        "roleFit": 85,
+        "experienceFit": 65,
         "companyFit": 74,
         "careerFit": 100,
         "freshness": 78
@@ -16246,15 +16377,15 @@
       "salaryText": null
     },
     {
-      "id": "03dd05a188aa081ef8",
+      "id": "bac23920894bb44e37",
       "company": "IBM",
       "companyTier": "A",
       "industry": "Tech / SaaS / AI",
-      "title": "Product Manager Intern 2027",
-      "location": "Lowell, Massachusetts, United States",
+      "title": "Storage Product Management Intern 2027 -Tucson, AZ",
+      "location": "Tucson, AZ, United States",
       "employmentType": "Internship",
       "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git",
+      "url": "https://jobright.ai/jobs/info/6a9e3b62dacf777321a90e4d?utm_campaign=1047&utm_source=git",
       "source": "Jobright — Product Management Internships",
       "category": "Product",
       "experienceBand": "Early Career",
@@ -16279,15 +16410,15 @@
       "salaryText": null
     },
     {
-      "id": "bac23920894bb44e37",
+      "id": "03dd05a188aa081ef8",
       "company": "IBM",
       "companyTier": "A",
       "industry": "Tech / SaaS / AI",
-      "title": "Storage Product Management Intern 2027 -Tucson, AZ",
-      "location": "Tucson, AZ, United States",
+      "title": "Product Manager Intern 2027",
+      "location": "Lowell, Massachusetts, United States",
       "employmentType": "Internship",
       "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a9e3b62dacf777321a90e4d?utm_campaign=1047&utm_source=git",
+      "url": "https://jobright.ai/jobs/info/6a9e341e75edfa11b47108b8?utm_campaign=1047&utm_source=git",
       "source": "Jobright — Product Management Internships",
       "category": "Product",
       "experienceBand": "Early Career",
@@ -16539,7 +16670,7 @@
       "salaryText": null
     },
     {
-      "id": "4ea772eec14bc0201c",
+      "id": "32ee69ab1cdb2c1623",
       "company": "Navy Federal Credit Union",
       "companyTier": "U",
       "industry": "Other",
@@ -16547,7 +16678,7 @@
       "location": "Vienna, VA, United States",
       "employmentType": "Internship",
       "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa17958dbc0e60e37e11709?utm_campaign=1047&utm_source=git",
+      "url": "https://jobright.ai/jobs/info/6aa17f1f2f936e4a53dabea9?utm_campaign=1047&utm_source=git",
       "source": "Jobright — Product Management Internships",
       "category": "Product",
       "experienceBand": "Early Career",
@@ -16884,39 +17015,6 @@
         "experienceFit": 60,
         "companyFit": 74,
         "careerFit": 88,
-        "freshness": 78
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
-      "id": "5b02a91662bd3cb8bb",
-      "company": "TikTok",
-      "companyTier": "A",
-      "industry": "Tech / Consumer",
-      "title": "Product Operations Intern (PGC) - 2027 Summer",
-      "location": "San Jose, CA, United States",
-      "employmentType": "Internship",
-      "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a8ec0f0382b237ac80c2b7f?utm_campaign=1047&utm_source=git",
-      "source": "Jobright — Product Management Internships",
-      "category": "Product",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Internship",
-        "Priority A"
-      ],
-      "matchScore": 86,
-      "scoreBreakdown": {
-        "roleFit": 95,
-        "experienceFit": 65,
-        "companyFit": 95,
-        "careerFit": 100,
         "freshness": 78
       },
       "salaryKnown": false,
@@ -18212,15 +18310,15 @@
       "salaryText": null
     },
     {
-      "id": "0f7205542e63d5d76e",
+      "id": "534d6f4e79be839d1c",
       "company": "Oakmont Senior Living",
       "companyTier": "U",
       "industry": "Other",
       "title": "Marketing Coordinator",
-      "location": "Concord, CA, United States",
+      "location": "Carlsbad, CA, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a85d9e8e459fa3baa864374?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6aa0519edbc0e60e37e0cdca?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -18244,15 +18342,15 @@
       "salaryText": null
     },
     {
-      "id": "534d6f4e79be839d1c",
+      "id": "0f7205542e63d5d76e",
       "company": "Oakmont Senior Living",
       "companyTier": "U",
       "industry": "Other",
       "title": "Marketing Coordinator",
-      "location": "Carlsbad, CA, United States",
+      "location": "Concord, CA, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa0519edbc0e60e37e0cdca?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a85d9e8e459fa3baa864374?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -18341,7 +18439,7 @@
       "salaryText": null
     },
     {
-      "id": "647fb574d083455d21",
+      "id": "a2952744d3736e2b53",
       "company": "Lucky Strike Entertainment",
       "companyTier": "U",
       "industry": "Other",
@@ -18349,7 +18447,7 @@
       "location": "United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa1d844ef23570cae24680e?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6aa1d844500b01124c77f4f6?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -18406,15 +18504,15 @@
       "salaryText": null
     },
     {
-      "id": "845063e390fe03cb54",
+      "id": "1ed3386b1b05b8208a",
       "company": "Later",
       "companyTier": "U",
       "industry": "Other",
       "title": "Influencer Marketing Coordinator (US)",
-      "location": "Boston, MA, United States",
+      "location": "United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa1bdd93272060a8e3f1cb4?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6aa1bdd2500b01124c77eae3?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -18439,15 +18537,15 @@
       "salaryText": null
     },
     {
-      "id": "1ed3386b1b05b8208a",
+      "id": "845063e390fe03cb54",
       "company": "Later",
       "companyTier": "U",
       "industry": "Other",
       "title": "Influencer Marketing Coordinator (US)",
-      "location": "United States",
+      "location": "Boston, MA, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa1bdd2500b01124c77eae3?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6aa1bdd93272060a8e3f1cb4?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -18698,15 +18796,15 @@
       "salaryText": null
     },
     {
-      "id": "962c78e2cce04309be",
+      "id": "d9f25b6157be089643",
       "company": "California Closets",
       "companyTier": "U",
       "industry": "Other",
       "title": "Sales Support and Marketing Coordinator",
-      "location": "Richmond, CA, United States",
+      "location": "Englewood, CO, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a90a5c1a19886486676271d?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6aa1a6cc3272060a8e3f144a?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -18730,15 +18828,15 @@
       "salaryText": null
     },
     {
-      "id": "d9f25b6157be089643",
+      "id": "962c78e2cce04309be",
       "company": "California Closets",
       "companyTier": "U",
       "industry": "Other",
       "title": "Sales Support and Marketing Coordinator",
-      "location": "Englewood, CO, United States",
+      "location": "Richmond, CA, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa1a6cc3272060a8e3f144a?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a90a5c1a19886486676271d?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -18794,6 +18892,70 @@
       "salaryText": null
     },
     {
+      "id": "ed5d845e2c70cd8371",
+      "company": "Travel + Leisure Co.",
+      "companyTier": "U",
+      "industry": "Other",
+      "title": "In-House Marketing Coordinator",
+      "location": "San Francisco, California, United States",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-09T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a7cb050d77e8156a8e339bb?utm_campaign=Marketing&utm_source=1103",
+      "source": "Jobright — Marketing New Grad",
+      "category": "GTM & Commercial",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Other Company"
+      ],
+      "matchScore": 78,
+      "scoreBreakdown": {
+        "roleFit": 86,
+        "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 78
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "c9e451ac77f77caf12",
+      "company": "Travel + Leisure Co.",
+      "companyTier": "U",
+      "industry": "Other",
+      "title": "In House Marketing Coordinator",
+      "location": "Williamsburg, Virginia, United States",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-09T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a6b857cc00ae03109f847fc?utm_campaign=Marketing&utm_source=1103",
+      "source": "Jobright — Marketing New Grad",
+      "category": "GTM & Commercial",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Other Company"
+      ],
+      "matchScore": 78,
+      "scoreBreakdown": {
+        "roleFit": 86,
+        "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 78
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
       "id": "ebcdeb9e8a9a5caaa2",
       "company": "Travel + Leisure Co.",
       "companyTier": "U",
@@ -18826,47 +18988,15 @@
       "salaryText": null
     },
     {
-      "id": "933d86a707f0900456",
+      "id": "9e6e3cff246d88f43d",
       "company": "Travel + Leisure Co.",
       "companyTier": "U",
       "industry": "Other",
-      "title": "In-House Marketing Coordinator",
-      "location": "San Francisco, California, United States",
+      "title": "In House Marketing Coordinator - Kona",
+      "location": "Kona Sales & Marketing, United States of America",
       "employmentType": "New Grad",
       "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a7cc683a346cb6c8d5f007d?utm_campaign=Marketing&utm_source=1103",
-      "source": "Jobright — Marketing New Grad",
-      "category": "GTM & Commercial",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Other Company"
-      ],
-      "matchScore": 78,
-      "scoreBreakdown": {
-        "roleFit": 86,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 78
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
-      "id": "58543f625797d08825",
-      "company": "Travel + Leisure Co.",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "In-House Marketing Coordinator",
-      "location": "Angels Camp, CA, United States",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a7ca61e83621355407aaeca?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a5945cec8e3a473cb8a62a6?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -18910,38 +19040,6 @@
       "scoreBreakdown": {
         "roleFit": 86,
         "experienceFit": 65,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 78
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
-      "id": "9e6e3cff246d88f43d",
-      "company": "Travel + Leisure Co.",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "In House Marketing Coordinator - Kona",
-      "location": "Kona Sales & Marketing, United States of America",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a5945cec8e3a473cb8a62a6?utm_campaign=Marketing&utm_source=1103",
-      "source": "Jobright — Marketing New Grad",
-      "category": "GTM & Commercial",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Other Company"
-      ],
-      "matchScore": 78,
-      "scoreBreakdown": {
-        "roleFit": 86,
-        "experienceFit": 60,
         "companyFit": 74,
         "careerFit": 100,
         "freshness": 78
@@ -19018,15 +19116,15 @@
       "salaryText": null
     },
     {
-      "id": "c9e451ac77f77caf12",
+      "id": "58543f625797d08825",
       "company": "Travel + Leisure Co.",
       "companyTier": "U",
       "industry": "Other",
-      "title": "In House Marketing Coordinator",
-      "location": "Williamsburg, Virginia, United States",
+      "title": "In-House Marketing Coordinator",
+      "location": "Angels Camp, CA, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a6b857cc00ae03109f847fc?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a7ca61e83621355407aaeca?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -19050,7 +19148,7 @@
       "salaryText": null
     },
     {
-      "id": "cf06f7646d44cce8ab",
+      "id": "2d13b71ac0a6107908",
       "company": "IXL Learning",
       "companyTier": "U",
       "industry": "Other",
@@ -19058,7 +19156,7 @@
       "location": "San Mateo, CA",
       "employmentType": "New Grad",
       "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/698cf59b78b4502f12a36994?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a51adf98d7d3e6cf1cc0f66?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -19274,7 +19372,7 @@
       "salaryText": null
     },
     {
-      "id": "f4d90f175d70fc735f",
+      "id": "85a5495d9609518505",
       "company": "OMNIVISION",
       "companyTier": "U",
       "industry": "Other",
@@ -19282,7 +19380,7 @@
       "location": "Santa Clara, CA, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-09T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a54f215377f983ce8a96c9f?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a57786410c4d945d864e43c?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -21037,7 +21135,7 @@
       "salaryText": null
     },
     {
-      "id": "321f793c24d14a8b20",
+      "id": "a7377db4b7fda0eb06",
       "company": "BNY",
       "companyTier": "B",
       "industry": "Financial Services / Fintech",
@@ -21045,7 +21143,7 @@
       "location": "Lake Mary, FL, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-08T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa01b7fea127c3794694f81?utm_campaign=Product%20Management&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6aa01b26500b01124c776d75?utm_campaign=Product%20Management&utm_source=1103",
       "source": "Jobright — Product Management New Grad",
       "category": "Product",
       "experienceBand": "Early Career",
@@ -23924,38 +24022,6 @@
       "salaryText": null
     },
     {
-      "id": "7ad998081c0c8ec416",
-      "company": "Loblaw Companies Limited",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "Brand Marketing – Super Market Division Co-op Student",
-      "location": "Brampton, ON, Canada",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-08T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a9f9e0ba7ba386c5d675860?utm_campaign=Marketing&utm_source=1103",
-      "source": "Jobright — Marketing New Grad",
-      "category": "GTM & Commercial",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Other Company"
-      ],
-      "matchScore": 78,
-      "scoreBreakdown": {
-        "roleFit": 86,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 78
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
       "id": "71c1648ef32604ac08",
       "company": "Loblaw Companies Limited",
       "companyTier": "U",
@@ -23988,15 +24054,15 @@
       "salaryText": null
     },
     {
-      "id": "9145f50cb3f868b123",
+      "id": "7ad998081c0c8ec416",
       "company": "Loblaw Companies Limited",
       "companyTier": "U",
       "industry": "Other",
-      "title": "Brand Marketing – Insiders Report Co-op Student",
+      "title": "Brand Marketing – Super Market Division Co-op Student",
       "location": "Brampton, ON, Canada",
       "employmentType": "New Grad",
       "postedAt": "2026-09-08T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a9f9da4dacf777321a95589?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a9f9e0ba7ba386c5d675860?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -24052,15 +24118,47 @@
       "salaryText": null
     },
     {
-      "id": "caa52b9b910ac95a15",
+      "id": "9145f50cb3f868b123",
+      "company": "Loblaw Companies Limited",
+      "companyTier": "U",
+      "industry": "Other",
+      "title": "Brand Marketing – Insiders Report Co-op Student",
+      "location": "Brampton, ON, Canada",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-08T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a9f9da4dacf777321a95589?utm_campaign=Marketing&utm_source=1103",
+      "source": "Jobright — Marketing New Grad",
+      "category": "GTM & Commercial",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Other Company"
+      ],
+      "matchScore": 78,
+      "scoreBreakdown": {
+        "roleFit": 86,
+        "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 78
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "919cd3d254cf0efdcd",
       "company": "Keck Medicine of USC",
       "companyTier": "U",
       "industry": "Other",
       "title": "Postdoctoral Scholar - Research Associate",
-      "location": "Los Angeles, CA - Health Sciences Campus, California, United States",
+      "location": "Los Angeles, CA, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-08T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a4634e40dd56c76cc2f7680?utm_campaign=Data%20Analysis&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a7e0f70e51a1e18a240bccf?utm_campaign=Data%20Analysis&utm_source=1103",
       "source": "Jobright — Data Analysis New Grad",
       "category": "Research & Insights",
       "experienceBand": "Early Career",
@@ -24084,15 +24182,15 @@
       "salaryText": null
     },
     {
-      "id": "919cd3d254cf0efdcd",
+      "id": "caa52b9b910ac95a15",
       "company": "Keck Medicine of USC",
       "companyTier": "U",
       "industry": "Other",
       "title": "Postdoctoral Scholar - Research Associate",
-      "location": "Los Angeles, CA, United States",
+      "location": "Los Angeles, CA - Health Sciences Campus, California, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-08T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a7e0f70e51a1e18a240bccf?utm_campaign=Data%20Analysis&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a4634e40dd56c76cc2f7680?utm_campaign=Data%20Analysis&utm_source=1103",
       "source": "Jobright — Data Analysis New Grad",
       "category": "Research & Insights",
       "experienceBand": "Early Career",
@@ -24179,15 +24277,15 @@
       "salaryText": null
     },
     {
-      "id": "8909af06750c8e33e8",
+      "id": "6ca6f37c71af87d081",
       "company": "DHL Supply Chain",
       "companyTier": "U",
       "industry": "Other",
       "title": "Business Data Analyst I",
-      "location": "Northlake, TX, United States",
+      "location": "Olive Branch, MS, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-08T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a6da29066158d7ef887e55c?utm_campaign=Data%20Analysis&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a99dd7490a313642c6534c9?utm_campaign=Data%20Analysis&utm_source=1103",
       "source": "Jobright — Data Analysis New Grad",
       "category": "Business & Analytics",
       "experienceBand": "Early Career",
@@ -24211,15 +24309,15 @@
       "salaryText": null
     },
     {
-      "id": "6ca6f37c71af87d081",
+      "id": "8909af06750c8e33e8",
       "company": "DHL Supply Chain",
       "companyTier": "U",
       "industry": "Other",
       "title": "Business Data Analyst I",
-      "location": "Olive Branch, MS, United States",
+      "location": "Northlake, TX, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-08T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a99dd7490a313642c6534c9?utm_campaign=Data%20Analysis&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a6da29066158d7ef887e55c?utm_campaign=Data%20Analysis&utm_source=1103",
       "source": "Jobright — Data Analysis New Grad",
       "category": "Business & Analytics",
       "experienceBand": "Early Career",
@@ -25275,7 +25373,7 @@
       "salaryText": null
     },
     {
-      "id": "02d1eceb32a23c8882",
+      "id": "b95255d34074c9fba3",
       "company": "HP",
       "companyTier": "U",
       "industry": "Other",
@@ -25283,7 +25381,7 @@
       "location": "Fort Collins, CO, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-07T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a8e043325fc4e7ae3dbf480?utm_campaign=Product%20Management&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a8e11cbd34f700f87fd7bd5?utm_campaign=Product%20Management&utm_source=1103",
       "source": "Jobright — Product Management New Grad",
       "category": "Product",
       "experienceBand": "Early Career",
@@ -25500,15 +25598,15 @@
       "salaryText": null
     },
     {
-      "id": "853739af89ecde4a80",
+      "id": "7245ef5c5120350c3a",
       "company": "BrokerLink",
       "companyTier": "U",
       "industry": "Other",
-      "title": "IT Business Analyst– 4-month Internship/Coop (Winter 2027)",
-      "location": "Montreal, Quebec, Canada",
+      "title": "Operations and Planning Business Analyst- 4-month Internship/Coop (Winter 2027)",
+      "location": "Toronto, ON, Canada",
       "employmentType": "Internship",
       "postedAt": "2026-09-07T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa049e9a2266b538d22f703?utm_campaign=1067&utm_source=git",
+      "url": "https://jobright.ai/jobs/info/6aa02dca5b2d5633ef3bcc7a?utm_campaign=1067&utm_source=git",
       "source": "Jobright — Business Analyst Internships",
       "category": "Business & Analytics",
       "experienceBand": "Early Career",
@@ -25533,15 +25631,15 @@
       "salaryText": null
     },
     {
-      "id": "7245ef5c5120350c3a",
+      "id": "853739af89ecde4a80",
       "company": "BrokerLink",
       "companyTier": "U",
       "industry": "Other",
-      "title": "Operations and Planning Business Analyst- 4-month Internship/Coop (Winter 2027)",
-      "location": "Toronto, ON, Canada",
+      "title": "IT Business Analyst– 4-month Internship/Coop (Winter 2027)",
+      "location": "Montreal, Quebec, Canada",
       "employmentType": "Internship",
       "postedAt": "2026-09-07T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa02dca5b2d5633ef3bcc7a?utm_campaign=1067&utm_source=git",
+      "url": "https://jobright.ai/jobs/info/6aa049e9a2266b538d22f703?utm_campaign=1067&utm_source=git",
       "source": "Jobright — Business Analyst Internships",
       "category": "Business & Analytics",
       "experienceBand": "Early Career",
@@ -25986,37 +26084,6 @@
       "salaryText": null
     },
     {
-      "id": "3086c6c2412f050d28",
-      "company": "Mercer",
-      "companyTier": "C",
-      "industry": "Consulting",
-      "title": "Lippincott - Fall 2027 Consultant, Brand Strategy",
-      "location": "New York, NY, United States",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-07T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6aa02ad6a2266b538d22e7f4?utm_campaign=Marketing&utm_source=1103",
-      "source": "Jobright — Marketing New Grad",
-      "category": "GTM & Commercial",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad"
-      ],
-      "matchScore": 77,
-      "scoreBreakdown": {
-        "roleFit": 86,
-        "experienceFit": 60,
-        "companyFit": 70,
-        "careerFit": 100,
-        "freshness": 78
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
       "id": "ec8b03ca3f1ec1b2f7",
       "company": "Mercer",
       "companyTier": "C",
@@ -26035,6 +26102,37 @@
       "matchScore": 76,
       "scoreBreakdown": {
         "roleFit": 82,
+        "experienceFit": 60,
+        "companyFit": 70,
+        "careerFit": 100,
+        "freshness": 78
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "3086c6c2412f050d28",
+      "company": "Mercer",
+      "companyTier": "C",
+      "industry": "Consulting",
+      "title": "Lippincott - Fall 2027 Consultant, Brand Strategy",
+      "location": "New York, NY, United States",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-07T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6aa02ad6a2266b538d22e7f4?utm_campaign=Marketing&utm_source=1103",
+      "source": "Jobright — Marketing New Grad",
+      "category": "GTM & Commercial",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad"
+      ],
+      "matchScore": 77,
+      "scoreBreakdown": {
+        "roleFit": 86,
         "experienceFit": 60,
         "companyFit": 70,
         "careerFit": 100,
@@ -26630,70 +26728,6 @@
       "salaryText": null
     },
     {
-      "id": "6a3ad2a79eb0da8488",
-      "company": "Air Techniques",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "Associate Product Manager",
-      "location": "Melville, NY, United States",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-06T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a5da616686b4755d1e1e737?utm_campaign=Product%20Management&utm_source=1103",
-      "source": "Jobright — Product Management New Grad",
-      "category": "Product",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Other Company"
-      ],
-      "matchScore": 81,
-      "scoreBreakdown": {
-        "roleFit": 99,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 62
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
-      "id": "5e2c52f1d00d0d8e99",
-      "company": "Air Techniques",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "Associate Product Manager",
-      "location": "Melville, NY, US",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-06T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a2bfe1fc260bb1b8ae1405d?utm_campaign=Product%20Management&utm_source=1103",
-      "source": "Jobright — Product Management New Grad",
-      "category": "Product",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Other Company"
-      ],
-      "matchScore": 81,
-      "scoreBreakdown": {
-        "roleFit": 99,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 62
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
       "id": "22c62c47d09a6334a1",
       "company": "A Helping Hand Renovation LLC",
       "companyTier": "U",
@@ -26709,38 +26743,6 @@
       "tags": [
         "New Grad",
         "Remote",
-        "Other Company"
-      ],
-      "matchScore": 79,
-      "scoreBreakdown": {
-        "roleFit": 95,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 62
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
-      "id": "b930bd7eeb4877c792",
-      "company": "Accenture Federal Services",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "ServiceNow Business Analyst - HRSD",
-      "location": "Springfield, VA, United States",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-06T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a5243a2d007ee02d95f6d37?utm_campaign=Business%20Analyst&utm_source=1103",
-      "source": "Jobright — Business Analyst New Grad",
-      "category": "Business & Analytics",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
         "Other Company"
       ],
       "matchScore": 79,
@@ -26858,48 +26860,15 @@
       "salaryText": null
     },
     {
-      "id": "ad8034f050afe7e8ec",
+      "id": "745bc5e675a96f0425",
       "company": "BMO",
       "companyTier": "U",
       "industry": "Other",
-      "title": "Cloud Business & Strategy Analytics Analyst, Winter 2027 (Co-op/Internship) - 4 Months",
+      "title": "Business Analyst, Winter 2027 (Co-op/Internship) - 8 Months",
       "location": "Toronto, ON, Canada",
       "employmentType": "Internship",
       "postedAt": "2026-09-06T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a9e4af749f4604c7894e7ac?utm_campaign=1067&utm_source=git",
-      "source": "Jobright — Business Analyst Internships",
-      "category": "Business & Analytics",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Internship",
-        "Other Company"
-      ],
-      "matchScore": 79,
-      "scoreBreakdown": {
-        "roleFit": 91,
-        "experienceFit": 65,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 62
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
-      "id": "3058d71ac1ac7da8aa",
-      "company": "BMO",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "Business Analyst, Winter 2027 (Co-op/Internship) - 12 Months",
-      "location": "Toronto, ON, Canada",
-      "employmentType": "Internship",
-      "postedAt": "2026-09-06T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a9e4ae92c964816f65ec9cd?utm_campaign=1067&utm_source=git",
+      "url": "https://jobright.ai/jobs/info/6a9e4ae72c964816f65ec9cc?utm_campaign=1067&utm_source=git",
       "source": "Jobright — Business Analyst Internships",
       "category": "Business & Analytics",
       "experienceBand": "Early Career",
@@ -26924,15 +26893,15 @@
       "salaryText": null
     },
     {
-      "id": "8f21ee55a97f9bf974",
+      "id": "f105dd8cbcbb65cf11",
       "company": "BMO",
       "companyTier": "U",
       "industry": "Other",
-      "title": "Business Analyst, Winter 2027 (Co-op/Internship) - 8 Months",
+      "title": "Business Analyst, Winter 2027 (Co-op/Internship) - 12 Months",
       "location": "Toronto, ON, Canada",
       "employmentType": "Internship",
       "postedAt": "2026-09-06T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a9e4b5a2c964816f65ec9e0?utm_campaign=1067&utm_source=git",
+      "url": "https://jobright.ai/jobs/info/6a9e4aec49f4604c7894e7a3?utm_campaign=1067&utm_source=git",
       "source": "Jobright — Business Analyst Internships",
       "category": "Business & Analytics",
       "experienceBand": "Early Career",
@@ -26978,6 +26947,39 @@
       "scoreBreakdown": {
         "roleFit": 95,
         "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 62
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "1e70dd7517b5bc0166",
+      "company": "BMO",
+      "companyTier": "U",
+      "industry": "Other",
+      "title": "Cloud Business & Strategy Analytics Analyst, Winter 2027 (Co-op/Internship) - 4 Months",
+      "location": "Toronto, ON, Canada",
+      "employmentType": "Internship",
+      "postedAt": "2026-09-06T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a9e4af027c94c3d5a1cc280?utm_campaign=1067&utm_source=git",
+      "source": "Jobright — Business Analyst Internships",
+      "category": "Business & Analytics",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Internship",
+        "Other Company"
+      ],
+      "matchScore": 79,
+      "scoreBreakdown": {
+        "roleFit": 91,
+        "experienceFit": 65,
         "companyFit": 74,
         "careerFit": 100,
         "freshness": 62
@@ -27054,38 +27056,6 @@
       "salaryText": null
     },
     {
-      "id": "9519e51f0a1a5b9098",
-      "company": "Veeva Systems",
-      "companyTier": "U",
-      "industry": "Healthcare / Pharma / Medtech",
-      "title": "Associate Business Consultant - Life Sciences Analytics",
-      "location": "Boston, MA, United States",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-06T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a54f03d2084cd792b475140?utm_campaign=Consultant&utm_source=1103",
-      "source": "Jobright — Consultant New Grad",
-      "category": "Consulting & Transformation",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Other Company"
-      ],
-      "matchScore": 79,
-      "scoreBreakdown": {
-        "roleFit": 92,
-        "experienceFit": 65,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 62
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
       "id": "bb8c0a43dc31b71da1",
       "company": "Veeva Systems",
       "companyTier": "U",
@@ -27106,6 +27076,38 @@
       "scoreBreakdown": {
         "roleFit": 92,
         "experienceFit": 60,
+        "companyFit": 74,
+        "careerFit": 100,
+        "freshness": 62
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "9519e51f0a1a5b9098",
+      "company": "Veeva Systems",
+      "companyTier": "U",
+      "industry": "Healthcare / Pharma / Medtech",
+      "title": "Associate Business Consultant - Life Sciences Analytics",
+      "location": "Boston, MA, United States",
+      "employmentType": "New Grad",
+      "postedAt": "2026-09-06T00:00:00.000Z",
+      "url": "https://jobright.ai/jobs/info/6a54f03d2084cd792b475140?utm_campaign=Consultant&utm_source=1103",
+      "source": "Jobright — Consultant New Grad",
+      "category": "Consulting & Transformation",
+      "experienceBand": "Early Career",
+      "tags": [
+        "New Grad",
+        "Other Company"
+      ],
+      "matchScore": 79,
+      "scoreBreakdown": {
+        "roleFit": 92,
+        "experienceFit": 65,
         "companyFit": 74,
         "careerFit": 100,
         "freshness": 62
@@ -27564,15 +27566,15 @@
       "salaryText": null
     },
     {
-      "id": "95bc30fa94b8012737",
+      "id": "cac36d233fa727ec12",
       "company": "C-4 Analytics",
       "companyTier": "U",
       "industry": "Other",
       "title": "Digital Marketing Account Coordinator (HYBRID)",
-      "location": "Chicago, IL, United States",
+      "location": "Wakefield, MA, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-06T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a97013cd13b4819f39de62d?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a970cfee4e60e4b8da5bc87?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -27596,15 +27598,15 @@
       "salaryText": null
     },
     {
-      "id": "cac36d233fa727ec12",
+      "id": "95bc30fa94b8012737",
       "company": "C-4 Analytics",
       "companyTier": "U",
       "industry": "Other",
       "title": "Digital Marketing Account Coordinator (HYBRID)",
-      "location": "Wakefield, MA, United States",
+      "location": "Chicago, IL, United States",
       "employmentType": "New Grad",
       "postedAt": "2026-09-06T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a970cfee4e60e4b8da5bc87?utm_campaign=Marketing&utm_source=1103",
+      "url": "https://jobright.ai/jobs/info/6a97013cd13b4819f39de62d?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -27669,70 +27671,6 @@
       "employmentType": "New Grad",
       "postedAt": "2026-09-06T00:00:00.000Z",
       "url": "https://jobright.ai/jobs/info/6a512a7357513b72e0c6487a?utm_campaign=Marketing&utm_source=1103",
-      "source": "Jobright — Marketing New Grad",
-      "category": "GTM & Commercial",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Other Company"
-      ],
-      "matchScore": 76,
-      "scoreBreakdown": {
-        "roleFit": 86,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 62
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
-      "id": "eade4a295d312e6e38",
-      "company": "Clark Associates",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "Field Marketing Associate",
-      "location": "Orlando, FL, United States",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-06T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a9dc67f2c964816f65eb45c?utm_campaign=Marketing&utm_source=1103",
-      "source": "Jobright — Marketing New Grad",
-      "category": "GTM & Commercial",
-      "experienceBand": "Early Career",
-      "tags": [
-        "New Grad",
-        "Other Company"
-      ],
-      "matchScore": 76,
-      "scoreBreakdown": {
-        "roleFit": 86,
-        "experienceFit": 60,
-        "companyFit": 74,
-        "careerFit": 100,
-        "freshness": 62
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
-      "id": "ec06e6b873c993d789",
-      "company": "Clark Associates",
-      "companyTier": "U",
-      "industry": "Other",
-      "title": "Field Marketing Associate",
-      "location": "Jacksonville, FL, United States",
-      "employmentType": "New Grad",
-      "postedAt": "2026-09-06T00:00:00.000Z",
-      "url": "https://jobright.ai/jobs/info/6a9dc67fa7ba386c5d670558?utm_campaign=Marketing&utm_source=1103",
       "source": "Jobright — Marketing New Grad",
       "category": "GTM & Commercial",
       "experienceBand": "Early Career",
@@ -32588,13 +32526,13 @@
       "category": "Partnerships & Platforms",
       "experienceBand": "Early Career",
       "tags": [],
-      "matchScore": 79,
+      "matchScore": 77,
       "scoreBreakdown": {
         "roleFit": 82,
         "experienceFit": 80,
         "companyFit": 82,
         "careerFit": 88,
-        "freshness": 48
+        "freshness": 35
       },
       "salaryKnown": false,
       "salaryMin": null,
@@ -34298,38 +34236,6 @@
       "salaryCurrency": "USD",
       "salaryPeriod": "annual",
       "salaryText": "Base Salary</div><div class=\"pay-range\"><span>$135"
-    },
-    {
-      "id": "42b540f0504d61aa63",
-      "company": "Databricks",
-      "companyTier": "A",
-      "industry": "Tech / AI",
-      "title": "Lead GTM Enablement & Scale Architect, Product Enablement",
-      "location": "United States",
-      "employmentType": "",
-      "postedAt": "2026-08-03T11:42:14-04:00",
-      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8644006002",
-      "source": "Greenhouse",
-      "category": "GTM & Commercial",
-      "experienceBand": "Early Career",
-      "tags": [
-        "Internship",
-        "Priority A"
-      ],
-      "matchScore": 83,
-      "scoreBreakdown": {
-        "roleFit": 90,
-        "experienceFit": 90,
-        "companyFit": 95,
-        "careerFit": 62,
-        "freshness": 35
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
     },
     {
       "id": "cecbd5efefcd07a0b7",
@@ -36474,37 +36380,6 @@
       "salaryText": "COMPENSATION $191"
     },
     {
-      "id": "a1e2a4784b0108e418",
-      "company": "OpenAI",
-      "companyTier": "A",
-      "industry": "Tech / AI",
-      "title": "GTM Strategy & Operations, India & South East Asia",
-      "location": "Singapore",
-      "employmentType": "FullTime",
-      "postedAt": "2026-07-08T16:14:26.004+00:00",
-      "url": "https://jobs.ashbyhq.com/openai/a38926a6-a514-4ee0-bfe1-408922a2790c",
-      "source": "Ashby",
-      "category": "GTM & Commercial",
-      "experienceBand": "Early Career",
-      "tags": [
-        "Priority A"
-      ],
-      "matchScore": 83,
-      "scoreBreakdown": {
-        "roleFit": 90,
-        "experienceFit": 90,
-        "companyFit": 95,
-        "careerFit": 62,
-        "freshness": 35
-      },
-      "salaryKnown": false,
-      "salaryMin": null,
-      "salaryMax": null,
-      "salaryCurrency": null,
-      "salaryPeriod": null,
-      "salaryText": null
-    },
-    {
       "id": "da9bef50cbe41c6bc7",
       "company": "Snowflake",
       "companyTier": "A",
@@ -38646,6 +38521,38 @@
         "experienceFit": 85,
         "companyFit": 95,
         "careerFit": 88,
+        "freshness": 35
+      },
+      "salaryKnown": false,
+      "salaryMin": null,
+      "salaryMax": null,
+      "salaryCurrency": null,
+      "salaryPeriod": null,
+      "salaryText": null
+    },
+    {
+      "id": "3a8bd3198699f19238",
+      "company": "Databricks",
+      "companyTier": "A",
+      "industry": "Tech / AI",
+      "title": "Lead GTM Enablement & Scale Architect, Product Enablement",
+      "location": "United States",
+      "employmentType": "",
+      "postedAt": "2026-05-26T18:03:25-04:00",
+      "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8548502002",
+      "source": "Greenhouse",
+      "category": "GTM & Commercial",
+      "experienceBand": "Early Career",
+      "tags": [
+        "Internship",
+        "Priority A"
+      ],
+      "matchScore": 83,
+      "scoreBreakdown": {
+        "roleFit": 90,
+        "experienceFit": 90,
+        "companyFit": 95,
+        "careerFit": 62,
         "freshness": 35
       },
       "salaryKnown": false,
